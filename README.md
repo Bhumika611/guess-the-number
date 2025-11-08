@@ -50,7 +50,7 @@ guess-the-number/
 ---
 
 ## 🎨 Screenshot
-(output.png)
+(output1.png)
 
 ---
 
