@@ -18,6 +18,7 @@ The goal is simple — guess the random number between **1 and 100** and see how
 
 guess-the-number/
 │
+
 ├── main.py          
 ├── gui.py          
 ├── game_logic.py   
