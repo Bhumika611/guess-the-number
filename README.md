@@ -50,8 +50,13 @@ guess-the-number/
 ---
 
 ## 🎨 Screenshot
-(output1.png)
 
+<p align="center">
+  <img src="output1.png" alt="App Screenshot" width="500"/>
+</p>
+<p align="center">
+  <img src="output2.png" alt="App Screenshot" width="500"/>
+</p>
 ---
 
 ## 👩‍💻 Developer
