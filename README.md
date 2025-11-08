@@ -18,10 +18,10 @@ The goal is simple — guess the random number between **1 and 100** and see how
 
 guess-the-number/
 │
-├── main.py          # Entry point for the program
-├── gui.py           # GUI (Tkinter frontend)
-├── game_logic.py    # Backend logic for number generation
-└── README.md        # Documentation
+├── main.py          
+├── gui.py          
+├── game_logic.py   
+└── README.md       
 
 
 ---
@@ -57,7 +57,7 @@ guess-the-number/
 <p align="center">
   <img src="output2.png" alt="App Screenshot" width="500"/>
 </p>
----
+
 
 ## 👩‍💻 Developer
 **Bhumika Macharla**  
